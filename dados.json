@@ -1,0 +1,7 @@
+{
+    "produtos": [
+        { "nome": "Camiseta", "preco": "39,99", "descricao": "Camiseta 100% algodão, super confortável" },
+        { "nome": "Tênis", "preco": "199,99", "descricao": "Tênis esportivo leve e resistente" },
+        { "nome": "Mochila", "preco": "129,99", "descricao": "Mochila espaçosa com design moderno" }
+    ]
+}
